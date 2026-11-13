@@ -1,6 +1,6 @@
 **Data Analysis of Restaurant Spending Patterns Using Python**
 
-##Project Overview
+**Project Overview**
 This project explores restaurant spending patterns through exploratory data analysis using Python. Using a dataset of 244 restaurant transactions, 
 the analysis examines differences in spending across days and meal periods, tipping behaviour, and the relationship between 
 dining group size and total expenditure.
