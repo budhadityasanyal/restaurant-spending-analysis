@@ -6,6 +6,7 @@ the analysis examines differences in spending across days and meal periods, tipp
 dining group size and total expenditure.
 
 **Research Questions**
+
 1.) How does average restaurant spending vary across different days of the week?
 
 2.) Do average transaction values differ between lunch and dinner?
@@ -15,12 +16,14 @@ dining group size and total expenditure.
 4.) How does dining group size relate to total spending?
 
 **Dataset**
+
 The project uses the Tips dataset available through the Seaborn Python library.
 Observations: 244
 Variables: 7
 Source: Seaborn Tips Dataset
 
 **Tools And Technologies Used:**
+
 Python
 Pandas
 NumPy
@@ -29,6 +32,7 @@ Seaborn
 Google Colab
 
 **Methodology**
+
 The analysis is involved with the following stages step by step:
 Data exploration: Examining dataset dimensions, variable types and missing values.
 Descriptive statistics: Calculating summary statistics to understand numerical variables.
@@ -38,6 +42,7 @@ Data visualisation: Creating bar charts and scatter plots to communicate analyti
 
 
 **Key Findings**
+
 1)Sunday recorded the highest average restaurant bill among the observed days.
 2)Dinner transactions had a higher average bill than lunch transactions.
 3)Total bill and tip amount showed a positive correlation of 0.676.
@@ -45,6 +50,7 @@ Data visualisation: Creating bar charts and scatter plots to communicate analyti
 5)Average transaction values generally increased with dining group size.
 
 **Interdisciplinary Perspective**
+
 *By Taking The Students, Previous Undergraduate Perspective from the viewpoint of english and cultural studies:*
 
 Taking through the theoretical aspect in " The Practice of Everyday Life ( 1984 ), by Michel de Certeau, he challenges the understanding of 
@@ -60,6 +66,7 @@ the lens of comparative analysis section.
 
 
 **Limitations**
+
 The analysis uses a pre-existing dataset of 244 transactions and is not intended to represent consumer behaviour more broadly. 
 The findings are descriptive and identify associations rather than causal relationships. 
 The project does not include predictive modelling or inferential statistical testing.
